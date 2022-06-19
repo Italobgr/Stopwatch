@@ -45,7 +45,7 @@ namespace Stopwatch
             Thread.Sleep(2000);
             Start(time);
         }
-        static void Start(int time)
+        static void Start(int time)//contador
         {
 
 
